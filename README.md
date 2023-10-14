@@ -3,8 +3,6 @@
 ## Description
 This project is a Triangle Puzzle game coded in Scala. It was created as part of the Programming studio A course at Aalto University in the Spring of 2021.
 
-![Game interface](interface.png)
-
 ## Features
 - Saving and loading games
 - Rotating puzzle pieces
